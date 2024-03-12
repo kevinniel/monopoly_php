@@ -1,0 +1,17 @@
+{
+    "name": "kevinniel/monopoly_php",
+    "description": "monopoly en CLI en PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Kevinniel\\MonopolyPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kevinniel",
+            "email": "k.niel.pro@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,4 +1,8 @@
-<?php 
+<?php
+
+namespace Classes;
+
+use Interface\InterfaceDice;
 
 class Dice implements InterfaceDice {
     

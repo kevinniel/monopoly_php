@@ -1,4 +1,6 @@
-<?php 
+<?php
+
+namespace Classes;
 
 class Dices {
 
@@ -20,7 +22,7 @@ class Dices {
         return $this->result;
     }
 
-    public function is_double(): boolean
+    public function is_double(): bool
     {
         return $this->dice1->value == $this->dice2->value;
     }
