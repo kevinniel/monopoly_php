@@ -7,6 +7,11 @@
             "Kevinniel\\MonopolyPhp\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Kevinniel\\MonopolyPhp\\Test\\": "Tests/"
+        }
+    },
     "authors": [
         {
             "name": "kevinniel",
