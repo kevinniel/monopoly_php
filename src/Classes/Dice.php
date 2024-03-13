@@ -2,7 +2,7 @@
 
 namespace App\Classes;
 
-use Interface\InterfaceDice;
+use App\Interfaces\InterfaceDice;
 
 class Dice implements InterfaceDice {
     
