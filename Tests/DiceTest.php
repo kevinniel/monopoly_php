@@ -10,7 +10,6 @@ final class DiceTest extends TestCase {
 
     public function testNumberOfFaces(): void
     {
-        var_dump("IIIIIIIIIICCCCCCIIIIIIIIIII");
         $dice = new Dice();
         $this->assertSame($dice->nb_face, 6);
     }
