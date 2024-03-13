@@ -4,7 +4,7 @@ namespace Tests;
 
 use PHPUnit\Framework\TestCase;
 
-use Classes\Dice;
+use App\Classes\Dice;
 
 final class DiceTest extends TestCase {
 
